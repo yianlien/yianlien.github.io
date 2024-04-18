@@ -21,3 +21,7 @@
 .resume-section-content span.text-warning {
       color: rgb(254, 210, 43);
   }
+
+  .resume-section-content a {
+    color: rgb(254, 210, 43);
+}
