@@ -16,3 +16,8 @@
 
 .resume-section {
     background-color: rgb(255, 248, 220);
+}
+
+.resume-section-content span.text-warning {
+      color: rgb(254, 210, 43);
+  }
