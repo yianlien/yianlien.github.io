@@ -6,4 +6,7 @@
 
   :root {
     --bs-yellow: #ffc413;
+    --bs-primary-rgb:(254,210,43)
+    --bs-link-color:(254,210,43)
+    --bs-link-hover-color:(254,210,43)
   }
