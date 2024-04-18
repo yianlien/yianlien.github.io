@@ -5,16 +5,14 @@
   }
 
   :root {
-    --bs-yellow: #ffc413;
-    --bs-primary-rgb: rgb(254,210,43)
-    --bs-link-color: rgb(254,210,43)
-    --bs-link-hover-color: rgb(254,210,43)
-  }
+    --bs-primary-rgb: rgb(254, 210, 43); 
+    --bs-link-color: rgb(254, 210, 43); 
+    --bs-link-hover-color: rgb(254, 210, 43);
+}
 
-  .social-icons .social-icons:hover {
-    background-color: rgb(254,210,43);
-  }
+.social-icons .social-icons:hover {
+    background-color: rgb(254, 210, 43); 
+}
 
-  .resume-section{
+.resume-section {
     background-color: rgb(255, 248, 220);
-  }
