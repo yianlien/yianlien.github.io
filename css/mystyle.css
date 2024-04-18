@@ -15,10 +15,10 @@
 }
 
 .resume-section {
-    background-color: rgb(255, 248, 220);
+    background-color: rgb(255, 250, 240);
 }
-
-.resume-section-content span.text-warning {
+.resume-section-content .flex-shrink-0 span.text-warning,
+.resume-section-content .flex-shrink-0 span.text-primary {
       color: rgb(254, 210, 43);
   }
 
