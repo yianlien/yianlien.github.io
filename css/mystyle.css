@@ -25,6 +25,9 @@
   .resume-section-content a {
     color: rgb(254, 210, 43);
 }
+.social-icons a:hover {
+    color:rgb(254, 210, 43);
+}
 
 .image-container {
     display: flex;
