@@ -26,10 +26,6 @@
     color: rgb(254, 210, 43);
 }
 
-a[href^="mailto"] {
-    text-transform: lowercase;
-}
-
 .image-container {
     display: flex;
     justify-content: space-between;
