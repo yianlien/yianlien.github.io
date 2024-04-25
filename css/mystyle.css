@@ -29,3 +29,12 @@
 a[href^="mailto"] {
     text-transform: lowercase;
 }
+
+.image-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.image-container > div {
+    width: 48%;
+}
