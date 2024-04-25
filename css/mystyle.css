@@ -10,8 +10,9 @@
     --bs-link-hover-color: rgb(254, 210, 43);
 }
 
-.social-icons a.social-icon:hover {
-    background-color: rgb(254, 210, 43); 
+.social-icons .social-icon:hover {
+    background-color: rgb(254, 210, 43) !important; 
+    color: rgb(254, 210, 43) !important; 
 }
 
 .resume-section {
